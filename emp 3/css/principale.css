@@ -1,0 +1,39 @@
+/* MODIFICATION */
+
+#modifications{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px black solid;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.input{
+    font-size: 1.5rem;
+}
+
+#date{
+    width: 100%;
+}
+
+#a-faire{
+    resize: none;
+    width: 100%;
+}
+
+#valider{
+    cursor: pointer;
+    width: 102%;
+    background-color: orange;
+    font-size:1.5rem;
+    border: solid black 0.5px;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+
+#valider:hover{
+    background-color: rgb(206, 135, 4);
+    border-radius: 15px;
+}
