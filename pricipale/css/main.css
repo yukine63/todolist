@@ -26,7 +26,7 @@ span{
     font-size: 1rem;
     border: solid black 0.5px;
     border-radius: 3px;
-    transition: 0.4s;
+    transition: 400ms;
 }
 
 .btn:hover{
