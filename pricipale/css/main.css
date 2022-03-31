@@ -12,8 +12,7 @@ span{
     position: absolute;
     text-align: left;
     height: auto;
-    width: 250px;
-    left: 50%;
+    width: auto;
     top: 50%;
     transform: translate(-50%, -50%);
 }
